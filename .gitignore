@@ -2,9 +2,6 @@
 *~
 __pycache__
 myvenv
-db.sqlite3python
-
+db.sqlite3
 /static
 .DS_Store
-templates/
-db.sqlite3
