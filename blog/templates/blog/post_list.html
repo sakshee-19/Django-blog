@@ -8,5 +8,6 @@
      <h2><a href="{% url 'post_detail' pk=post.pk %}">Title: {{ post.title }}</a></h2>
      <p class="content">{{ post.text | linebreaksbr }}</p>
    </div>
+    <hr>
 {% endfor %}
 {% endblock %}
