@@ -29,6 +29,10 @@ body{
     margin-left: 10px;
 }
 
+#logout{
+    font-size: small;
+}
+
 .date {
     color:#828282;
 }
